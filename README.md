@@ -1,4 +1,4 @@
-# iOS-Interview-Challenge
+# iOS Challenge
 
 ## About my approach
 I developed the app using UIKit and VIPER as the architecture. I used generamba for creating all my VIPER files and classes, and SnapKit to easily create the constraints for my views. 
