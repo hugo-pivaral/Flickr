@@ -1,0 +1,22 @@
+### Headers settings
+company: CIDENET
+
+### Xcode project settings
+project_name: flickrUIKit
+xcodeproj_path: Flickr.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: Flickr
+
+# The file path for new modules
+project_file_path: Flickr/Scenes/SCENE_NAME/Modules
+
+# The Xcode group path to new modules
+project_group_path: Flickr/Scenes/SCENE_NAME/Modules
+
+### Templates
+templates:
+- {name: rviper_controller}
+- {name: mvvm_controller}
+- {name: swifty_viper}
